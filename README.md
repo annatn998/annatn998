@@ -7,6 +7,7 @@ My name is Anna! 🔭 I’m currently working as a Data Scientist in London! I s
 
 ## Recent Projects 🍎
 - I've recently been volunteering my time as back-end developer for Evac-Ability (non-for-profit) which I helped to get up and running during a hack-a-thon. It will connect refugees with disabilities to proper homes that can provide sufficient care.
+- Developing an RPG game (progress can be tracked on github). 
 
 
 ## Links 🔗
