@@ -14,6 +14,8 @@ My name is Anna! 🔭 I’m currently working as a Data Scientist in London! I s
 - [LinkedIn](https://www.linkedin.com/in/anna-nguyen-0b4712160/)
 - [Evac-Ability](https://evac-ability.com)
 
+## Publications
+- [Emotion Analysis Using Multilayered Networks for Graphical Representation of Tweets](https://ieeexplore.ieee.org/document/9893783)
 ### Extra 
 - 📫 How to reach me: annatn998@gmail.com
 - 😄 Pronouns: She/Her
