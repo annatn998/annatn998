@@ -2,12 +2,16 @@
 
 ## About Me 🧋
 
-My name is Anna! 🔭 I’m currently working as a Data Scientist in London! I specialize in development of machine learning algorithms using Python and have a **MSc in Data Science** from **Birkbeck University**  While working I've gained experience with NLP for Sentiment Analysis and Graph Building & Graph Neural Networks. But I'm super keen on learning more about computer vision and reinforcement learning! In the past year, I've also taken up Django and video game development on the side (hoping to someday make my own video game and then train an RL agent to learn how to play it!). 
+My name is Anna! 🔭 I’m currently working as a Senior Data Scientist in London! I specialize in development and deployment of machine learning algorithms using Python and have a **MSc in Data Science** from **Birkbeck University**  
+
+As I have been working in industry for over 4 years I have a wide range of experience from customer segmentation, customer churn, content mapping using embeddings, contribution analysis, NLP, predictive analysis on user behavior, integratting generative models into project workflows and deploying models to serve at scale. But I'm super keen on learning more about computer vision and reinforcement learning! In the past year, I've begun studying for my qualification as a GCP Machine Learning Engineer and video game development on the side (hoping to someday make my own video game and then train an RL agent to learn how to play it!). 
 
 
 ## Recent Projects 🍎
-- I've recently been volunteering my time as back-end developer for Evac-Ability (non-for-profit) which I helped to get up and running during a hack-a-thon. It will connect refugees with disabilities to proper homes that can provide sufficient care.
-- Developing an RPG game (progress can be tracked on github). 
+- Anomaly detection in video game sprites using pytorch (code on github)
+- 
+## Volunteer Projects
+- Backend development for Evac-Ability (non-for-profit) which I helped to get up and running during a hack-a-thon. It will connect refugees with disabilities to proper homes that can provide sufficient care.
 
 
 ## Links 🔗
@@ -16,6 +20,7 @@ My name is Anna! 🔭 I’m currently working as a Data Scientist in London! I s
 
 ## Publications
 - [Emotion Analysis Using Multilayered Networks for Graphical Representation of Tweets](https://ieeexplore.ieee.org/document/9893783)
+  
 ### Extra 
 - 📫 How to reach me: annatn998@gmail.com
 - 😄 Pronouns: She/Her
