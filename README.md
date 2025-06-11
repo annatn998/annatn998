@@ -9,7 +9,7 @@ As I have been working in industry for over 4 years I have a wide range of exper
 
 ## Recent Projects 🍎
 - Anomaly detection in video game sprites using pytorch (code on github)
-- 
+- AI Generation of Video Game Sprites 
 ## Volunteer Projects
 - Backend development for Evac-Ability (non-for-profit) which I helped to get up and running during a hack-a-thon. It will connect refugees with disabilities to proper homes that can provide sufficient care.
 
